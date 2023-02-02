@@ -67,4 +67,4 @@ USER ${USERNAME}
 
 ENTRYPOINT ["/sbin/tini", "--"]
 
-CMD ["node", "src/index"]
+CMD ["node", "src/Main"]
