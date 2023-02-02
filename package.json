@@ -1,5 +1,5 @@
 {
-  "name": "zod-schema-validation-demo",
+  "name": "ZodSchemaValidationDemo",
   "version": "1.0.0",
   "description": "Demo showing request schema validation with Zod.",
   "author": "Henrique Silvério",
@@ -18,7 +18,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/HenriqueSilverio/zod-schema-validation-demo.git"
+    "url": "https://github.com/HenriqueSilverio/ZodSchemaValidationDemo.git"
   },
   "dependencies": {
     "express": "^4.18.2",
