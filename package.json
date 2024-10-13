@@ -21,7 +21,7 @@
     "url": "https://github.com/HenriqueSilverio/ZodSchemaValidationDemo.git"
   },
   "dependencies": {
-    "express": "^4.21.0",
+    "express": "^4.21.1",
     "zod": "^3.23.8"
   },
   "devDependencies": {
